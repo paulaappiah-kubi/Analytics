@@ -4,7 +4,7 @@ House Predictions
 
 **Housing Price Predictive Analytics**
 
-A complete, leakage-free machine learning pipeline built in Python that predicts housing prices using Linear Regression and Random Forest models, with feature importance analysis.
+A machine learning pipeline built in Python that predicts housing prices using Linear Regression and Random Forest models, with feature importance analysis.
 
 **Key Features:**
 - Proper train/test split performed *before* any preprocessing to avoid data leakage
