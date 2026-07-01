@@ -40,14 +40,14 @@ predictive-analytics/
  ML pipeline predicting housing prices with Linear Regression & Random Forest, including feature importance analysis. Built with Python & scikit-learn.
 
 
-Summary statistics 
+***Summary statistics***  
 
 
 <img width="567" height="290" alt="pred 1 pic" src="https://github.com/user-attachments/assets/dd010b92-0a0b-48c6-8046-c47599e9fab4" />
 
 
 
-Data Visualizations
+**Data Visualizations**
 
 
 1.Frequency distribution of the data
